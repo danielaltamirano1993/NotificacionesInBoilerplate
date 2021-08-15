@@ -18,12 +18,3 @@ Take a look at [the wiki](https://github.com/imakewebthings/deck.js/wiki) for li
 
 - [jQuery](http://jquery.com)
 - [Modernizr](http://modernizr.com)
-
-## Tests & Support
-
-Unit tests are written with [Jasmine](http://pivotal.github.com/jasmine/) and [jasmine-jquery](https://github.com/velesin/jasmine-jquery). You can [run them here](http://imakewebthings.github.com/deck.js/test).
-
-deck.js has been tested with jQuery 1.6+ and works in Edge, Brave, Chrome, FireFox, Safari, and Opera. The more capable browsers receive greater enhancements, but a basic cutaway slideshow will work for all browsers listed above. Please don't give your presentations in IE6.
-
-For any questions or general discussion about deck.js please direct your attention to the [mailing list](http://groups.google.com/group/deckjs) (uses Google groups.)  If you would like to report a bug, please see the [issues page](https://github.com/imakewebthings/deck.js/issues).
-
