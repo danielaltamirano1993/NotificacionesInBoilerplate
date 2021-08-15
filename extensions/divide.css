@@ -1,0 +1,23 @@
+
+
+div.noticia {
+  width: 50%;
+  margin: 20px auto;
+  background-color: #449;
+  color: #fff;
+  padding: 15px;
+}
+
+div.noticia img.izquierda {
+  float: left;
+  margin-right: 15px;
+}
+
+div.noticia img.derecha {
+  float: right;
+  margin-left: 15px;
+}
+
+div.reset {
+  clear: both;
+}

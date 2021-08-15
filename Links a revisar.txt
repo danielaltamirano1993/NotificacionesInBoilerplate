@@ -1,0 +1,6 @@
+
+
+https://www.pubnub.com/blog/java-websocket-programming-with-android-and-spring-boot/
+
+https://kaazing.com/doc/5.0/security/c_security_https_wss/index.html
+
